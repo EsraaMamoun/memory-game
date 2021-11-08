@@ -1,9 +1,8 @@
 .App {
-    margin: 860px;
+    max-width: 860px;
     margin: 40px auto;
-}
-
-button {
+  }
+  button {
     background: none;
     border: 2px solid #fff;
     padding: 6px 12px;
@@ -12,13 +11,11 @@ button {
     font-weight: bold;
     cursor: pointer;
     font-size: 1em;
-}
-
-button:hover {
+  }
+  button:hover {
     background: #c23866;
     color: #fff;
-}
-
+  }
 .card-grid {
     margin-top: 40px;
     display: grid;
